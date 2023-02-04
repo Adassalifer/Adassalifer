@@ -1,4 +1,4 @@
-<h1>Oiee eu sou Adassa Jeanneffer, Estudante de programação e Design!</h1>
+<h1>Oiee eu sou Adassa Jeanneffer, Designer e Estudante de programação!</h1>
 
 
 <div style="display: inline_block"><br>
